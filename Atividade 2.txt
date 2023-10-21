@@ -1,0 +1,15 @@
+Teste 1
+Entrada: 14230703058l
+Saída: true
+
+Teste 2
+Entrada: "142.307.030-58"
+Saída: true
+
+Teste 3
+Entrada: 230703058l
+Saída: false
+
+Teste 4
+Entrada: "002.307.030-58"
+Saída: false
