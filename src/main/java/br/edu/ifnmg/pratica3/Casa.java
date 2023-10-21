@@ -6,7 +6,7 @@ package br.edu.ifnmg.pratica3;
 
 /**
  *
- * @author ketsu
+ * @author keni
  */
 public class Casa {
     boolean ocupada=false;

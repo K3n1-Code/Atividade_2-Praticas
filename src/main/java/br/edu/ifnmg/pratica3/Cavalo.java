@@ -6,7 +6,7 @@ package br.edu.ifnmg.pratica3;
 
 /**
  *
- * @author ketsu
+ * @author keni
  */
 public class Cavalo {
     Casa estiveEm[] = new Casa[64];
@@ -58,6 +58,9 @@ public class Cavalo {
             }
             k++;
         }
+        
+        aux+=new Casa(currentRow,currentColumn).toString();
+        aux+="\n";
         return "Posição atual:" + new Casa(currentRow,currentColumn).toString() + "Movimentos: "+ movements+ "\n" + aux;
     }
     

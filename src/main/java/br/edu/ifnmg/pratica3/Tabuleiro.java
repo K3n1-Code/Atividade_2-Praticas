@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author ketsu
+ * @author keni
  */
 public class Tabuleiro {
     public Casa casas[][] = new Casa[8][8];

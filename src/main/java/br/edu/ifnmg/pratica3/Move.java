@@ -6,7 +6,7 @@ package br.edu.ifnmg.pratica3;
 
 /**
  *
- * @author ketsu
+ * @author keni
  */
 public final class Move {
     public static final int[] horizontal = {2,1,-1,-2,-2,-1,1,2};

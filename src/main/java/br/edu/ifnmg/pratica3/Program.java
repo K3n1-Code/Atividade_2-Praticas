@@ -6,7 +6,7 @@ package br.edu.ifnmg.pratica3;
 
 /**
  *
- * @author ketsu
+ * @author keni
  * 
  * //Resposta da A: Cheguei até 62 movimentos
  */
